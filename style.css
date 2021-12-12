@@ -151,3 +151,42 @@ div .card {
     font-weight:bold;
     height:141px;
 }
+
+.sign-up {
+    display:flex;
+    align-items:center;
+    color:#F9FAF8;
+    justify-content: center;
+    padding: 120px 0px;
+}
+
+.sign-up-blue {
+    display:flex;
+    background:#3882F6;
+    max-width:960px;
+    min-width:960px;
+    border-radius: 8px;
+    justify-content: space-evenly;
+    padding:48px 0px;
+}
+
+.sign-up-blue .title {
+    font-size:28px;
+}
+
+.sign-up-blue .description {
+    font-size:18px;
+}
+
+.sign-up-button {
+    padding: 4px 20px;
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border:3px solid #F9FAF8;
+    cursor:pointer;
+    outline:none;
+    align-self:center;
+    font-weight:bold;
+    font-size:18px;
+}
