@@ -85,7 +85,8 @@ button:focus, button:hover {
 .splash img {
     flex:1 0 auto;
     max-width: 480px;
-    min-width: 480px;
+    height:215.83;
+    width:480px
 }
 
 .content {
