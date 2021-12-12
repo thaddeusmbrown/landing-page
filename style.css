@@ -1,0 +1,26 @@
+body {
+    margin:0px;
+}
+
+.header {
+    display:flex;
+    background-color: #1F2937;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 120px;
+}
+
+ul {
+    display:flex;
+    font-size: 12px;
+    font-weight: initial;
+    gap:12px;
+}
+
+li {
+    list-style: none;
+}
