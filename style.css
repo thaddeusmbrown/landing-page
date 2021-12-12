@@ -190,3 +190,12 @@ div .card {
     font-weight:bold;
     font-size:18px;
 }
+
+.footer {
+    display:flex;
+    justify-content:center;
+    background: #1F2937;
+    color:#F9FAF8;
+    font-size:18px;
+    padding: 36px 0px;
+}
